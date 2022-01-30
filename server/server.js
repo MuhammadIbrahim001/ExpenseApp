@@ -16,7 +16,7 @@ app.use((req, res, next) => {
   });
 
   const mongoURI =
-  "mongodb+srv://ibrahim:Ibrahim001@cluster0.y2wym.mongodb.net/expensedb?retryWrites=true&w=majority";
+  "Your Url";
 const conn = mongoose
   .connect(mongoURI, {
     useNewUrlParser: true,
