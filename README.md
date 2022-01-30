@@ -24,7 +24,7 @@ These instructions will get you a copy of the project
 1. Clone the repo
 
 ```
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/MuhammadIbrahim001/ExpenseApp.git
 ```
 
 2. Install NPM packages
