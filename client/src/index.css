@@ -1,0 +1,13 @@
+.box {
+  animation: slide-bottom 100s ease both;
+  margin: 20;
+  background: #2cd9c5;
+}
+@keyframes slide-bottom {
+  0% {
+    transform: translateY(-50px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
